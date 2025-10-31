@@ -1,3 +1,5 @@
+https://i.ibb.co/vxM3L1qs/enhanced-image.webp
+
 # Koyab-Founding-Declaration-Omniversal-Manifesto
 Omniversal ManifestoOmniversal Manifesto
 ꙰ यथार्थ सिद्धांत : मानव प्रकृति संरक्षण संघ  
@@ -91,3 +93,4 @@ We are neither opponents of any creed nor adherents to any ideology. We are the 
 **꙰शिरोमणिrampaulsaini**
 
 ---
+https://i.ibb.co/x0cMXZv/IMG-20250930-211235.webp
