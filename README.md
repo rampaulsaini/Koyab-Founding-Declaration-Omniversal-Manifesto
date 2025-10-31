@@ -103,7 +103,22 @@ What will remain — is peace.
 
 - **GPay:** `sainirampaul90-1@okhdfcbank`  
 - **PayPal:** [paypal.me/sainirampaul60](https://paypal.me/sainirampaul60)
+💫 **Contribute / Support**
 
+📱 **GPay (QR Scan):**  
+<img src="https://raw.githubusercontent.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto/main/GPay_QR.png" alt="GPay QR" width="220" />
+
+💳 **PayPal:**  
+[paypal.me/sainirampaul60](https://paypal.me/sainirampaul60)
+
+---
+
+🌐 **Social / Community**
+- 🌿 [WhatsApp Chat](#)
+- 📘 [Facebook Share](#)
+- 🪶 [Blog](#)
+- 🎥 [YouTube Channel](#)
+- 
 ---
 
 ## 🌐 Social / Community
