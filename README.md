@@ -157,7 +157,12 @@ What will remain — is peace.
 
 ## 🔗 Koyab Founding Declaration
 
-[👉 Open Declaration File](./Koyab_Founding_Declaration.md)
+[👉 (🔗 **Koyab Founding Declaration**
+
+📄 [Open Declaration (PDF)](https://github.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto/blob/main/Koyab_Founding_Declaration.pdf)
+
+📝 [Open Declaration (DOCX)](https://github.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto/blob/main/Koyab_Founding_Declaration.docx)
+)
 
 ---
 
