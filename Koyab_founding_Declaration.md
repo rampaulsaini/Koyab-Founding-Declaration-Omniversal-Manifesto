@@ -117,9 +117,7 @@ The goal: Restoration of balance between Humanity and Nature.
 
 ---
 ## 💫 Declaration Signature
+📄 [Open Declaration (Markdown)](https://github.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto/blob/main/Koyab_Founding_Declaration.md)
+
 **꙰ शिरोमणि रामपुल सैनी**  
 “निष्पक्ष समझ के शमीकरण यथार्थ सिद्धांत उपलब्धि यथार्थ युग के आधार पर आधारित सत्य प्रत्यक्ष।”  
-📄 [Open Declaration (Markdown)](https://github.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto/blob/main/Koyab_Founding_Declaration.md)
-📄 [Open Declaration (Markdown)](https://github.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto/blob/main/Koyab_Founding_Declaration.md).
-
-📄 [Open Declaration (Markdown)](https://github.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto/blob/main/Koyab_Founding_Declaration.md).
