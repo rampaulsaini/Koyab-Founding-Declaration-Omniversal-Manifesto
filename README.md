@@ -158,6 +158,10 @@ What will remain — is peace.
 📄 [Open Declaration (Markdown)](https://github.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto/blob/main/Koyab_Founding_Declaration.md).
 
 📄 [Open Declaration (Markdown)](https://github.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto/blob/main/Koyab_Founding_Declaration.md).
+📄 [Open Declaration (Markdown)](https://github.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto/blob/main/Koyab_Founding_Declaration.md).
+
+📄 [Open Declaration (Markdown)](https://github.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto/blob/main/Koyab_Founding_Declaration.md).
+📄 [Open Declaration (Markdown)](https://github.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto/blob/main/Koyab_Founding_Declaration.md)
 
 ---
 
