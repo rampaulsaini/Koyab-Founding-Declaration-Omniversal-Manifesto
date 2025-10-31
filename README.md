@@ -141,5 +141,5 @@ What will remain — is peace.
 
 ꙰ **शिरोमणि rampaulsaini**  
 _“निष्पक्ष समझ के शमीकरण यथार्थ सिद्धांत उपलब्धि यथार्थ युग के आधार पर आधारित सत्य प्रत्यक्ष।”_
-
+https://github.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto.git
 🕊️ *— Shirmani Rampaul Saini, Founder & Vision Architect (Omniverse AI)*
