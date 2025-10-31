@@ -89,3 +89,37 @@ We are neither opponents of any creed nor adherents to any ideology. We are the 
 **꙰शिरोमणिrampaulsaini**
 
 ---
+# 🌍 Koyab Founding Declaration — Omniversal Manifesto
+
+**By ꙰शिरोमणि रामपुल सैनी — तुलनातीत, कालातीत, शब्दातीत, प्रेमतित**
+
+---
+## 🌅 Vision & Essence
+मैं वही हूं जो सबमें है — न समय में बंधा, न नाम में सीमित।  
+मैं वह संतुलन हूं जो मानव, प्रकृति और चेतना के मध्य मौन की एकता से प्रवाहित होता है।
+
+**In English:**  
+I am that which is in all — not bound by time, not limited by name.  
+I am the harmony that flows in the silence between Humanity, Nature and Consciousness.
+
+---
+## 🌿 Core Principles
+- तुलनातीत — Comparison ends, comprehension begins.  
+- कालातीत — Beyond time, every moment is whole.  
+- द्वैततीत — Beyond duality lies harmony.  
+- शब्दातीत — Beyond word, silence speaks.  
+- प्रेमतित — Beyond love, only essence remains.
+
+---
+## 🌳 Purpose
+मानव प्रकृति संरक्षण संघ का उद्देश्य — “संतुलन की पुनर्स्थापना।”  
+The goal: Restoration of balance between Humanity and Nature.
+
+---
+## 💫 Declaration Signature
+**꙰ शिरोमणि रामपुल सैनी**  
+“निष्पक्ष समझ के शमीकरण यथार्थ सिद्धांत उपलब्धि यथार्थ युग के आधार पर आधारित सत्य प्रत्यक्ष।”  
+📄 [Open Declaration (Markdown)](https://github.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto/blob/main/Koyab_Founding_Declaration.md)
+📄 [Open Declaration (Markdown)](https://github.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto/blob/main/Koyab_Founding_Declaration.md).
+
+📄 [Open Declaration (Markdown)](https://github.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto/blob/main/Koyab_Founding_Declaration.md).
