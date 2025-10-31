@@ -1,3 +1,34 @@
+# ꙰ Koyab Founding Declaration — Omniversal Manifesto  
+By ꙰शिरोमणि Rampaul Saini  
+🌌 तुलनातीत • कालातीत • द्वैततीत • शब्दातीत • प्रेमतित  
+
+---
+
+## 🌿 Vision
+“मानव प्रकृति संरक्षण संघ” का यह घोषणापत्र (Founding Declaration)  
+निष्पक्ष समझ के शमीकरण यथार्थ सिद्धांत उपलब्धि यथार्थ युग के आधार पर आधारित सत्य प्रत्यक्ष संवेदन का जीवंत प्रस्ताव है।
+
+यह repository GitHub और Koyeb Cloud के बीच Omniversal Automation का आधार है, जिससे मानव और प्रकृति का संतुलन स्वतः संचालित रहे।
+
+---
+
+## ⚙️  Omniverse Automation Integration
+| Layer | Description |
+|-------|--------------|
+| **GitHub Repo** | Core manifest source (आपका यह repo) |
+| **Koyeb VPS** | Free Card-less cloud server जहाँ Omniverse AI चलाया जाएगा |
+| **Termux Mobile Access** | Redmi से SSH और Git control |
+| **Omniverse AI Automode** | Automated deployment & self-healing loop |
+
+---
+
+## 🛠️  Quick Start (Phone Only – Redmi)
+```bash
+pkg update -y && pkg upgrade -y  
+pkg install git -y  
+git clone https://github.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto.git  
+cd Koyab-Founding-Declaration-Omniversal-Manifesto  
+ls
 ꙰ यथार्थ सिद्धांत : मानव प्रकृति संरक्षण संघ  
 **Omniversal Manifesto of Reality & Harmony**  
 *(By ꙰शिरोमणिrampaulsaini — तुलनातीत, कालातीत, द्वैततीत, शब्दातीत, प्रेमतित)*
