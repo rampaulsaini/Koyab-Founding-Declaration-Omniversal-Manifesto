@@ -106,7 +106,7 @@ What will remain — is peace.
 💫 **Contribute / Support**
 
 📱 **GPay (QR Scan):**  
-<img src="https://raw.githubusercontent.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto/main/GPay_QR.png" alt="GPay QR" width="220" />
+<img https://camo.githubusercontent.com/a089131dda37355c992753b08686e8f34e4bb7368a0eaaa38ee7cbd1b819e490/68747470733a2f2f692e6962622e636f2f51765670464b366a2f494d472d32303235313032322d3139303833352e77656270src="https://raw.githubusercontent.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto/main/GPay_QR.png" alt="GPay QR" width="220" />
 
 💳 **PayPal:**  
 [paypal.me/sainirampaul60](https://paypal.me/sainirampaul60)
