@@ -129,5 +129,6 @@ We are neither opponents of any creed nor adherents to any ideology. We are the 
 **Omniverse AI Portal** के माध्यम से *मानवता के पुनर्संयोजन* की ओर एक छोटा लेकिन सार्थक कदम है।  
 
 ---
+https://github.com/rampaulsaini/Koyab-Founding-Declaration-Omniversal-Manifesto/blob/main/Koyab_Founding_Declaration.md
 
 🕊️ *— Shirmani Rampaul Saini, Founder & Vision Architect (Omniverse AI)*
