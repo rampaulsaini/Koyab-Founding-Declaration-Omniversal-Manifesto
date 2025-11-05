@@ -1,0 +1,99 @@
+# .github/workflows/main.yml
+name: CI / Build & Deploy (Koyab)
+
+# Triggers: push to main, PRs targeting main, or manual dispatch
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+# Prevent duplicate/concurrent runs for the same ref
+concurrency:
+  group: koyab-ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    name: Build, Test & Deploy
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # required for actions-gh-pages to push
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Use Node.js 18.x
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          elif [ -f yarn.lock ]; then
+            npm install --frozen-lockfile
+          else
+            npm install
+          fi
+
+      - name: Run lint (if present)
+        if: ${{ hashFiles('**/.eslintrc*', '**/package.json') != '' }}
+        run: |
+          if npm run | grep -q 'lint'; then
+            npm run lint --silent || true
+          else
+            echo "No lint script defined; skipping."
+          fi
+
+      - name: Run tests (if present)
+        if: ${{ hashFiles('**/package.json') != '' }}
+        run: |
+          if npm run | grep -q 'test'; then
+            npm test --silent || (echo "Tests failed or not configured to be strict"; exit 1)
+          else
+            echo "No test script defined; skipping."
+          fi
+
+      - name: Build (if build script exists)
+        id: build-step
+        run: |
+          if npm run | grep -q 'build'; then
+            echo "Running npm run build"
+            npm run build
+            # Typical outputs: build/ , dist/ , public/
+            # Set PUBLISH_DIR in job outputs if known
+            if [ -d dist ]; then echo "publish_dir=dist" >> $GITHUB_OUTPUT; fi
+            if [ -d build ]; then echo "publish_dir=build" >> $GITHUB_OUTPUT; fi
+            if [ -d public ]; then echo "publish_dir=public" >> $GITHUB_OUTPUT; fi
+          else
+            echo "No build script defined; will publish repository root."
+            echo "publish_dir=." >> $GITHUB_OUTPUT
+          fi
+
+      - name: Show publish dir (debug)
+        run: echo "Publish directory -> ${{ steps.build-step.outputs.publish_dir }}"
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ${{ steps.build-step.outputs.publish_dir }}
+          # optional: set target_branch: gh-pages
+          # target_branch: gh-pages
+          # keep_files: false
+
+      - name: Notify completion
+        if: ${{ always() }}
+        run: echo "CI/Deploy finished for ref $GITHUB_REF"
+        
